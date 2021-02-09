@@ -1,2 +1,0 @@
-# CANAL
-CANALES

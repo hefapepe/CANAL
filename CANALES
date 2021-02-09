@@ -1,0 +1,150 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club", Teleclub 
+https://tv.teleclub.xyz/kyle/live-channels?envivo=TELECLUB&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
+https://tv.teleclub.xyz/kyle/live-channels?latino=CARTOON_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
+https://tv.teleclub.xyz/kyle/live-channels?latino=DISNEY_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
+https://tv.teleclub.xyz/kyle/live-channels?latino=DISNEYXD_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr
+https://tv.teleclub.xyz/kyle/live-channels?club=DISNEYJR&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids
+https://tv.teleclub.xyz/kyle/live-channels?club=NATGEOKIDS&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK
+https://tv.teleclub.xyz/kyle/live-channels?latino=NICK_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", TEEN NICK
+https://tv.teleclub.xyz/kyle/live-channels?latino=TEENNICK_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK MUSIC [SD]
+https://tv.teleclub.xyz/kyle/live-channels?latino=NICKMUSIC_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR [Club]
+https://tv.teleclub.xyz/kyle/live-channels?club=NICKJR&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids [SD]
+https://tv.teleclub.xyz/kyle/live-channels?latino=DKIDS_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast [SD]
+https://tv.teleclub.xyz/kyle/live-channels?latino=TOONCAST_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agCjY8n.png" group-title="Infantil", Boomerang [SD]
+https://tv.teleclub.xyz/kyle/live-channels?latino=BOOMERANG_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3eZIO3.png" group-title="Infantil", BabyTV [Club]
+https://tv.teleclub.xyz/kyle/live-channels?club=BABYTV&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Noticias", ADN40 [SD]
+https://tv.teleclub.xyz/kyle/live-channels?latino=ADN40_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXfwH1i.png" group-title="Externa", ARG | Telemax
+https://tv.teleclub.xyz/kyle/live-channels?ver=TELEMAX_ARG&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa", Telesur
+https://tv.teleclub.xyz/kyle/live-channels?ver=TELESUR_LAT&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EQM99H.jpg" group-title="Mundo", A3 Series
+https://tv.teleclub.xyz/kyle/live-channels?club=A3SERIES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fISPUww.jpg" group-title="Mundo", Antena 3
+https://tv.teleclub.xyz/kyle/live-channels?club=A3&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WgmrLn.png" group-title="Mundo", Glitz
+https://tv.teleclub.xyz/kyle/live-channels?club=GLITZ&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet 
+https://tv.teleclub.xyz/kyle/live-channels?latino=ANIMALPLANET_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo
+https://tv.teleclub.xyz/kyle/live-channels?club=DTURBO&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World
+https://tv.teleclub.xyz/kyle/live-channels?latino=DWORLD_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater
+https://tv.teleclub.xyz/kyle/live-channels?latino=DTHEATER_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences
+https://tv.teleclub.xyz/kyle/live-channels?latino=DSCIENCES_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H
+https://tv.teleclub.xyz/kyle/live-channels?latino=DHYH_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="Cultura", Investigation Discovery
+https://tv.teleclub.xyz/kyle/live-channels?latino=ID_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC 
+https://tv.teleclub.xyz/kyle/live-channels?latino=TLC_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel 1
+https://tv.teleclub.xyz/kyle/live-channels?latino=HISTORY_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", History Channel 2
+https://tv.teleclub.xyz/kyle/live-channels?latino=H2_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", NATGEO 
+https://tv.teleclub.xyz/kyle/live-channels?latino=NATGEO_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Cultura", NATGEO Wild
+https://tv.teleclub.xyz/kyle/live-channels?latino=NATGEOWILD_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E
+https://tv.teleclub.xyz/kyle/live-channels?latino=AYE_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura", El Gourmet
+https://tv.teleclub.xyz/kyle/live-channels?latino=ELGOURMET_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Cultura", ComedyCentral
+https://tv.teleclub.xyz/kyle/live-channels?club=COMEDYCENTRAL&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Cultura", Distrito Comedia
+https://tv.teleclub.xyz/kyle/live-channels?latino=DISTRITOCOMEDIA_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium", HBO
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBO_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBOPremium", HBO2
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBO2_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="HBOPremium", HBO PLUS
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBOPLUS_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="HBOPremium", HBO FAMILY 
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBOFAMILY_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="HBOPremium", HBO SIGNATURE
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBOSIGNATURE_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="HBOPremium", HBO MUNDI 
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBOMUNDI_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="HBOPremium", HBO POP 
+https://tv.teleclub.xyz/kyle/live-channels?latino=HBOPOP_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBOPremium", HBO XTREME
+https://tv.teleclub.xyz/kyle/live-channels?club=HBOXTREME&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium", Fox Premium Action
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOXACTION_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium", Fox Premium Cinema
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOXCINEMA_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium", Fox Premium Comedy
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOXCOMEDY_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium", Fox Premium Classic
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOXCLASSIC_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium", Fox Premium Family
+https://tv.teleclub.xyz/kyle/live-channels?club=FOXFAMILY&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium", Fox Premium Series
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOXSERIES_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium", Fox Premium Movies
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOXMOVIES_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="Entretenimiento", Fox Channel
+https://tv.teleclub.xyz/kyle/live-channels?latino=FOX_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento", Fox Life
+https://tv.teleclub.xyz/kyle/live-channels?club=FOXLIFE&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC 
+https://tv.teleclub.xyz/kyle/live-channels?club=AMC&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV
+https://tv.teleclub.xyz/kyle/live-channels?latino=WARNER_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV
+https://tv.teleclub.xyz/kyle/live-channels?latino=UNIVERSAL_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX 
+https://tv.teleclub.xyz/kyle/live-channels?latino=FX_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" group-title="Entretenimiento", FXM
+https://tv.teleclub.xyz/kyle/live-channels?club=FXM&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN
+https://tv.teleclub.xyz/kyle/live-channels?latino=AXN_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony 
+https://tv.teleclub.xyz/kyle/live-channels?latino=SONY_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" group-title="Entretenimiento", TNT
+https://tv.teleclub.xyz/kyle/live-channels?latino=TNT_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series
+https://tv.teleclub.xyz/kyle/live-channels?club=TNTSERIES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount Channel
+https://tv.teleclub.xyz/kyle/live-channels?latino=PARAMOUNT_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS 
+https://tv.teleclub.xyz/kyle/live-channels?club=TBS&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" group-title="Entretenimiento", TCM 
+https://tv.teleclub.xyz/kyle/live-channels?club=TCM&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento", Golden
+https://tv.teleclub.xyz/kyle/live-channels?latino=GOLDENEDGE_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento", Golden + 
+https://tv.teleclub.xyz/kyle/live-channels?latino=GOLDENPLUS_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuBfKVG.jpg" group-title="Entretenimiento", Golden Premier
+https://tv.teleclub.xyz/kyle/live-channels?club=GOLDENPREMIER&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9FRWYm.png" group-title="Entretenimiento", DEPELICULA
+https://tv.teleclub.xyz/kyle/live-channels?latino=DEPELICULA_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKyvkOK.png" group-title="Entretenimiento", SYFY 
+https://tv.teleclub.xyz/kyle/live-channels?latino=SYFY_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jk14nuw.png" group-title="Musica", Bandamax 
+https://tv.teleclub.xyz/kyle/live-channels?latino=BANDAMAX_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRk487L.png" group-title="Musica", TELEHIT 
+https://tv.teleclub.xyz/kyle/live-channels?latino=TELEHIT_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lEq3ntw.jpg" group-title="Deporte", CDF 
+https://tv.teleclub.xyz/kyle/live-channels?latino=CDF_HD&format=.m3u8
+
+
